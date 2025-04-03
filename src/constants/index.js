@@ -158,11 +158,8 @@ export const achievements = [
     content1: "True Network's Winner, Polkadot's 1st Runner Up",
     content2: "Lit Protocol's 2nd Runner Up",
     content3: "Coinbase Pool Prize, Base Top 10",
-    article:
-      "https://www.linkedin.com/posts/mittal-parth_super-stoked-to-announce-that-our-team-emerged-activity-7274735259621961729-tkq4?utm_source=share&utm_medium=member_desktop",
-    project: "https://devfolio.co/projects/khoj-3336",
-    youtube:
-      "https://www.youtube.com/live/qJ4OCtnvjUY?si=VkcnHEdwJTEEDlMg&t=4718",
+    article: "",
+    youtube: "",
   },
   {
     id: "a-2",
@@ -208,7 +205,7 @@ export const achievements = [
     content2: "",
     content3: "",
     youtube: "https://www.youtube.com/watch?v=X2473En3h_o&t=5278s",
-    project: "https://parthmittal.netlify.app/",
+    project: "",
   },
   {
     id: "a-6",
@@ -447,7 +444,7 @@ export const projects = [
     id: "project-1",
     title: "AppInsight",
     github: "https://github.com/ippandey/App-Insight",
-    link: "https://github.com/ippandey/App-Insight",
+    link: "https://appinsight.netlify.app/",
     image: comicify_ai,
     content:
       "Developed a sentiment analysis tool with NLTK, analyzing 1,000+ reviews monthly to provide insights that improved user retention and guided product enhancements.",
